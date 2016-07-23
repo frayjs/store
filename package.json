@@ -1,0 +1,7 @@
+{
+  "name": "fray.store",
+  "version": "0.1.0",
+  "description": "Predictable state container",
+  "license": "MIT",
+  "main": "src/store.js"
+}
